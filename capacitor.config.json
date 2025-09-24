@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.fintrack",
+  "appName": "FinTrack",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
